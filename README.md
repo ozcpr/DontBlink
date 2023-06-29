@@ -1,16 +1,10 @@
-# dblink
+# DontBlink
+A Healthy Mobile Word Game For Your Brain Created With Flutter
 
-A new Flutter project.
+The Concept is quite easy:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- It's a word game
+- When you tap the start button, it throws a bunch of words on the screen and the clock starts ticking.
+- You try to memorize as many words as possible within the given time limit.
+- When time is up, the app asks you which words showed up from the initial set of words, and the clock starts ticking again.
+- As your level increases, the restricted time for memorization decreases and the word count increases.
